@@ -1,2 +1,2 @@
-# SpectrumAnayzerCaps
-SpectrumAnayzerCaps
+# SpectrumAnalyzer
+Spectrum Analyzer board
